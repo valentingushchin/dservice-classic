@@ -1,2 +1,1 @@
 # dservice-classic
-DService classic

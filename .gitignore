@@ -1,3 +1,11 @@
+Debug/
+Release/
+x64/
+.vs/
+
+*.user
+*.zip
+
 # Prerequisites
 *.d
 
